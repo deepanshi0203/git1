@@ -1,4 +1,8 @@
 this is git workshop
 not understanding everything
 but its fun
+<<<<<<< HEAD
 why are we doing this
+=======
+are we done yet
+>>>>>>> feature2
