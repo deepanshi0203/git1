@@ -1,3 +1,4 @@
 this is git workshop
 not understanding everything
 but its fun
+why are we doing this
